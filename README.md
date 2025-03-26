@@ -6,10 +6,10 @@
 
 ## 🛠️ Tech Stack & Skills
 
-| 💻 Languages | ⚙️ Backend | 🗄️ Database | 🚀 Hosting |
-|-------------|-----------|------------|-----------|
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) | ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) | ![Pterodactyl](https://img.shields.io/badge/Pterodactyl-1E1E1E?style=flat&logo=pterodactyl&logoColor=white) |
-| | ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) | ![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white) | Cloud Hosting |
+| 💻 Languages | ⚙️ Backend | 🗄️ Database |
+|-------------|-----------|------------|
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) | ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) |
+| | ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) | |
 
 ---
 
@@ -24,8 +24,8 @@ A premium store providing **programming tools** and **custom bot development ser
 ---
 
 ## 📫 Contact Me
-- **Discord**: `5g`
-- **GitHub**: [Dark Dev](https://github.com/AMZ-KE)
+- **Discord**: `id5g`
+- **GitHub**: [Dark Dev](https://github.com/id5g)
 
 ---
 _Always exploring new technologies and improving my skills!_ 🚀
