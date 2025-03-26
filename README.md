@@ -1,31 +1,16 @@
-# 💻 Dark Dev
+# 💫 About Me:
+Hello , Im Dark Dev , A Passionate Backend Developer With Over <br>A 6 Months Experience .<br>I Specialize In Creating API's Using Node.JS And Express.Js .<br>A Pro Discord.Js Dev .
 
-🚀 **Professional Backend Developer** | **JavaScript & Node.js Expert**
 
----
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Se8bRU9j) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/id5g0) 
 
-## 🛠️ Tech Stack & Skills
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=id5g&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=id5g&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=id5g&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-| 💻 Languages | ⚙️ Backend | 🗄️ Database |
-|-------------|-----------|------------|
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) | ![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white) |
-| | ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) | |
-
----
-
-## 🚀 Projects
-
-### 🏆 Evo
-A powerfull image generator discord bot with built in simple dashboard
-
-### 🏪 Dark Host
-A premium store providing **programming tools** and **custom bot development services**, specializing in high-performance solutions.
-
----
-
-## 📫 Contact Me
-- **Discord**: `id5g`
-- **GitHub**: [Dark Dev](https://github.com/id5g)
-
----
-_Always exploring new technologies and improving my skills!_ 🚀
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=id5g&theme=radical&no-frame=false&no-bg=true&margin-w=4)
