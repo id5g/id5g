@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello , Im Dark Dev , A Passionate Backend Developer With Over <br>A 6 Months Experience .<br>I Specialize In Creating API's Using Node.JS And Express.Js .<br>A Pro Discord.Js Dev .
+Hi Im iDark, A Passionate Backend Developer
 
 
 ## 🌐 Socials:
